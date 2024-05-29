@@ -14,9 +14,9 @@ LinkedIn - https://www.linkedin.com/in/kishanraikwar/ <br/>
 GitHub - https://github.com/kishan4u2007 </br>
 Portfolio - For portfolio connect with me. <br/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kishanraikwar&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kishan4u2007&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanraikwar)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan4u2007)
 
 <!--
 **srinu6/srinu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
